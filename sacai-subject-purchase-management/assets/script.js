@@ -1,0 +1,1 @@
+// Main JavaScript file for SACAI Subject Purchase Management plugin

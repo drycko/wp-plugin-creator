@@ -1,4 +1,3 @@
-### 📄 **README.md for WordPress Plugin Creator Script**
 # 🛠️ WordPress Plugin Creator Script
 
 A Python terminal program designed to quickly set up a **boilerplate WordPress plugin** with a structured folder layout, essential files, and sample code. This tool simplifies the initial setup phase of plugin development.
@@ -67,9 +66,9 @@ Enter the name of your WordPress plugin: My Awesome Plugin
 
 **Output:**  
 ```
-✅ Plugin 'My Awesome Plugin' created successfully!
-📂 Location: /path/to/My-Awesome-Plugin
-📄 Main File: My-Awesome-Plugin.php
+✅ Plugin 'My Plugin' created successfully!
+📂 Location: /path/to/save/my-plugin
+📄 Main File: /path/to/save/my-plugin/my-plugin.php
 📁 Subfolders and Files created:
    - assets/style.css
    - assets/script.js
